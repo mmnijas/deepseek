@@ -1,0 +1,25 @@
+{
+    "name": "mmnijas/deepseek",
+    "description": "Easy DeepSeek integration for Laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mmnijas\\DeepSeek\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mmnijas\\DeepSeek\\DeepSeekServiceProvider"
+            ],
+            "aliases": {
+                "DeepSeek": "Mmnijas\\DeepSeek\\Facades\\DeepSeek"
+            }
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^9.0 || ^10.0"
+    }
+}
