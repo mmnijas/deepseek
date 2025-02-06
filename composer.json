@@ -1,7 +1,46 @@
 {
     "name": "mmnijas/deepseek",
     "description": "A Laravel package for seamless integration with DeepSeek AI services, enabling efficient and scalable AI-powered functionalities such as natural language processing, data analysis, and automation through a simple and intuitive API wrapper.",
-   "license": "MIT",
+    "keywords": [
+        "deepseek",
+        "ai",
+        "sdk",
+        "api",
+        "php",
+        "client",
+        "llm",
+        "nlp",
+        "openai",
+        "qwen",
+        "machine-learning",
+        "php-sdk",
+        "ai-sdk",
+        "ai-api",
+        "natural-language-processing",
+        "api-integration",
+        "php-api-client",
+        "deepseek-ai",
+        "ai-client-library",
+        "text-generation",
+        "generative-ai",
+        "api-wrapper",
+        "rest-client",
+        "developer-tools",
+        "php-ai-integration",
+        "deepseek-api",
+        "openai-alternative",
+        "artificial-intelligence",
+        "ai-programming",
+        "ai-php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mmnijas",
+            "email": "hello@mmnijas.in",
+            "role": "owner"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Mmnijas\\DeepSeek\\": "src/"
