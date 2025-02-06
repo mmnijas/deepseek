@@ -1,9 +1,10 @@
-Here's a comprehensive README.md for your DeepSeek Laravel package:
-
 # DeepSeek Laravel Integration
 
 [![Latest Version](https://img.shields.io/packagist/v/mmnijas/deepseek.svg?style=flat-square)](https://packagist.org/packages/mmnijas/deepseek)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Total Downloads](https://poser.pugx.org/mmnijas/deepseek/downloads)](https://packagist.org/packages/mmnijas/deepseek/stats)
+[![Monthly Downloads](https://poser.pugx.org/mmnijas/deepseek/d/monthly)](https://packagist.org/packages/mmnijas/deepseek/stats)
+[![Daily Downloads](https://poser.pugx.org/mmnijas/deepseek/d/daily)](https://packagist.org/packages/mmnijas/deepseek/stats)
 
 A seamless integration package for DeepSeek API in Laravel applications. Easily interact with DeepSeek's AI capabilities through an expressive Laravel-friendly interface.
 
