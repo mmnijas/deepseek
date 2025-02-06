@@ -1,7 +1,7 @@
 {
     "name": "mmnijas/deepseek",
-    "description": "Easy DeepSeek integration for Laravel",
-    "license": "MIT",
+    "description": "A Laravel package for seamless integration with DeepSeek AI services, enabling efficient and scalable AI-powered functionalities such as natural language processing, data analysis, and automation through a simple and intuitive API wrapper.",
+   "license": "MIT",
     "autoload": {
         "psr-4": {
             "Mmnijas\\DeepSeek\\": "src/"
